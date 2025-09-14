@@ -116,6 +116,7 @@ MIT – see `LICENSE` file.
 ![Python](https://img.shields.io/badge/Python-Stdlib%20Only-blue)
 ![Maintenance](https://img.shields.io/badge/Maintained-Yes-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![CI](<img alt="CI" src="https://github.com/jambhaleAnuj/python-package-size-analyzer/actions/workflows/python-package.yml/badge.svg">)
 
 ---
 
