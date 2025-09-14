@@ -1,0 +1,17 @@
+Package                                     Size (MB)
+----------------------------------------------------
+numpy                                          137.42
+pandas                                          62.77
+matplotlib                                      35.19
+scipy                                           31.04
+pip                                             12.11
+setuptools                                      11.45
+charset_normalizer                               9.12
+idna                                            2.20
+requests                                        2.08
+certifi                                         1.69
+wheel                                           1.10
+urllib3                                         0.92
+six                                             0.83
+colorama                                        0.06
+...                                             ...
