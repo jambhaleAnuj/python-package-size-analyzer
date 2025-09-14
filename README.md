@@ -58,10 +58,6 @@ The script:
 
 No heuristics, no partial sampling – full recursive byte size per package directory.
 
-## SEO-Friendly Keywords (contextual)
-
-Python package size analyzer, list largest python packages, site-packages disk usage, python dependency bloat, remove large python packages, clean global python install, python script no dependencies, package size audit.
-
 ## Uninstalling Large Packages (Manual Examples)
 
 Once you identify large packages you don't need globally:
@@ -117,11 +113,15 @@ MIT – see `LICENSE` file.
 
 ## Badge Zone
 
-_(Badges kept minimal to avoid noise)_
-
 ![Python](https://img.shields.io/badge/Python-Stdlib%20Only-blue)
 ![Maintenance](https://img.shields.io/badge/Maintained-Yes-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+---
+
+## SEO-Keywords
+
+Python package size analyzer, list largest python packages, site-packages disk usage, python dependency bloat, remove large python packages, clean global python install, python script no dependencies, package size audit.
 
 ---
 
